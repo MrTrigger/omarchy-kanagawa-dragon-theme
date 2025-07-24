@@ -1,0 +1,3 @@
+return {
+  colorscheme = "kanagawa-dragon"
+}

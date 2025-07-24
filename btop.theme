@@ -1,0 +1,44 @@
+# Btop Kanagawa Dragon theme
+
+# Main background color
+theme[main_bg]="#181616"
+
+# Main text color
+theme[main_fg]="#c5c9c5"
+
+# Title color for boxes
+theme[title]="#c5c9c5"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#8ba4b0"
+
+# Background color of selected items
+theme[selected_bg]="#282727"
+
+# Foreground color of selected items
+theme[selected_fg]="#c4b28a"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#625e5a"
+
+# Graph colors
+theme[graph_text]="#a6a69c"
+
+# Meter colors (from good to bad)
+theme[meter_bg]="#625e5a"
+theme[proc_misc]="#c4b28a"
+
+# CPU graph colors
+theme[cpu_start]="#87a987"
+theme[cpu_mid]="#c4b28a"
+theme[cpu_end]="#c4746e"
+
+# Memory/disks/network boxes
+theme[mem_start]="#87a987"
+theme[mem_mid]="#c4b28a"
+theme[mem_end]="#c4746e"
+
+# Process list colors
+theme[process_start]="#87a987"
+theme[process_mid]="#c4b28a"
+theme[process_end]="#c4746e"
