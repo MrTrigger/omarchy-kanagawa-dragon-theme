@@ -36,26 +36,26 @@ background = '#8ba4b0'
 [colors.normal]
 black   = '#0d0c0c'
 red     = '#c4746e'
-green   = '#87a987'
-yellow  = '#c4b28a'
-blue    = '#8ba4b0'
-magenta = '#8992a7'
-cyan    = '#8ea4a2'
-white   = '#a6a69c'
-
-[colors.bright]
-black   = '#625e5a'
-red     = '#c4746e'
-green   = '#87a987'
+green   = '#8a9a7b'
 yellow  = '#c4b28a'
 blue    = '#8ba4b0'
 magenta = '#a292a3'
 cyan    = '#8ea4a2'
+white   = '#c8c093'
+
+[colors.bright]
+black   = '#a6a69c'
+red     = '#e46876'
+green   = '#87a987'
+yellow  = '#e6c384'
+blue    = '#7fb4ca'
+magenta = '#938aa9'
+cyan    = '#7aa89f'
 white   = '#c5c9c5'
 
 [colors.selection]
-text = '#c5c9c5'
-background = '#282727'
+text = '#c8c093'
+background = '#2d4f67'
 
 [colors.dim]
 black   = '#0d0c0c'
@@ -73,4 +73,4 @@ color = '#b6927b'
 
 [[colors.indexed_colors]]
 index = 17
-color = '#c4746e'
+color = '#b98d7b'
