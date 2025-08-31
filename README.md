@@ -27,6 +27,7 @@ Based on the [Kanagawa Dragon](https://github.com/rebelot/kanagawa.nvim) color p
 
 - Alacritty
 - Btop
+- Chromium
 - Hyprland
 - Hyprlock
 - Mako
